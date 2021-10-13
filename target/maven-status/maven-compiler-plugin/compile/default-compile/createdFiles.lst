@@ -1,0 +1,6 @@
+model\ProcessedEvent.class
+service\EventProcessor.class
+service\DbManager.class
+application\LogsApplication.class
+model\Event.class
+service\EventParser.class
